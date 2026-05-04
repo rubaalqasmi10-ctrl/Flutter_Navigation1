@@ -5,7 +5,7 @@
 لقطات الشاشة
 | الصفحة الرئيسية | تفاصيل المنتج | نتيجة الإضافة (SnackBar) |
 
-| <img src="screenshot\home.png" width="‏‏200 " /> | <img src="details.png" width="200" /> | <img src="add favorites.png" width="200" />| <img src="favorites.png" width="200" /> | 
+| <img src="screenshot\home.png" width="‏‏200 " /> | <img src="screenshot\details.png" width="200" /> | <img src="screenshot\add favorites.png" width="200" />| <img src="screenshot\favorites.png" width="200" /> | 
 )*
 
 ## 🛠️ ما تم تنفيذه:
