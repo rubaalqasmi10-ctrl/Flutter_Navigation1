@@ -1,17 +1,14 @@
-# app_navigation
+# مشروع التكليف الخامس: التنقل في Flutter
 
-A new Flutter project.
+هذا التطبيق يطبق مفاهيم الـ Navigation وتمرير البيانات بتصميم عصري.
 
-## Getting Started
+لقطات الشاشة
+| الصفحة الرئيسية | تفاصيل المنتج | نتيجة الإضافة (SnackBar) |
 
-This project is a starting point for a Flutter application.
+| <img src="screenshot\home.png" width="‏‏200 " /> | <img src="details.png" width="200" /> | <img src="add favorites.png" width="200" />| <img src="favorites.png" width="200" /> | 
+)*
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ ما تم تنفيذه:
+- Exercise 01: التنقل بين الشاشات باستخدام Navigator.push و Navigator.pop.
+- Exercise 02: تمرير اسم المنتج واستعادة نتيجة (Result) وعرضها في SnackBar.
+- UI/UX: إضافة حركات Hero Animation وتصميم Glassmorphism.
